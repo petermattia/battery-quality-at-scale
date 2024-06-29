@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FullImageProfile xmlns:xsi="none" FileName="unbinned_4680 2.tif" OperatorID="">
+  <SavedImageProfile>
+    <FilePath>\\RECON-PC\ctdata\unbinned_4680 2.tif</FilePath>
+    <FileFormat>TIFF</FileFormat>
+    <BitDepth>16</BitDepth>
+    <SaveFileFormat>1</SaveFileFormat>
+    <JPEGCompressionType>0</JPEGCompressionType>
+    <JPEGCompression>1</JPEGCompression>
+  </SavedImageProfile>
+  <ImageNotes>Wednesday, May 8, 2024 8:29:15 AM</ImageNotes>
+  <ImageNotes>The X-ray conditions for this image were 210kV, 51.0W.</ImageNotes>
+  <Sample />
+  <Customer />
+  <ManipulatorPosition Version="2">
+    <AxisPosition>0</AxisPosition>
+    <AxisPosition>257.164</AxisPosition>
+    <AxisPosition>150.039856</AxisPosition>
+    <AxisPosition>234.431152</AxisPosition>
+    <AxisPosition>0</AxisPosition>
+    <AxisPosition>-349.999268</AxisPosition>
+  </ManipulatorPosition>
+  <XAxis>0</XAxis>
+  <YAxis>1</YAxis>
+  <MagnificationAxis>2</MagnificationAxis>
+  <RotateAxis>3</RotateAxis>
+  <TiltAxis>4</TiltAxis>
+  <CTRotateAxis>3</CTRotateAxis>
+  <ImagingAxis>5</ImagingAxis>
+  <SampleHeight>0</SampleHeight>
+  <MeasurementCalibrationH>0.017500882682826423</MeasurementCalibrationH>
+  <MeasurementCalibrationV>0.017500882682826423</MeasurementCalibrationV>
+  <MeasurementCalibrationValid>true</MeasurementCalibrationValid>
+  <kV>210</kV>
+  <uA>243</uA>
+  <Power>51.03</Power>
+  <XrayCurrentUsed>true</XrayCurrentUsed>
+  <ExposureTime>125</ExposureTime>
+  <FramesAveraged>8</FramesAveraged>
+  <CameraProperties exposure="125" accumulation="0" binning="0" gain="2" digitalGain="0" WhiteToBlackLatency="20000" BlackToWhiteLatency="0" WhiteToWhiteLatency="1000" lines="1">
+    <transform>1</transform>
+    <imageOffsetX>15</imageOffsetX>
+    <imageOffsetY>15</imageOffsetY>
+    <imageSizeX>2850</imageSizeX>
+    <imageSizeY>2850</imageSizeY>
+  </CameraProperties>
+  <TimeAcquired>2024-05-08T08:29:15.6673897-04:00</TimeAcquired>
+  <Time>8:29:15 AM</Time>
+  <Date>Wednesday, May 8, 2024</Date>
+  <ImageProcessing />
+  <XraySource>Rotating Reflection 225</XraySource>
+  <XraySourceTargetMaterial>Tungsten</XraySourceTargetMaterial>
+  <XrayFiltration>
+    <Material />
+    <ThicknessMM>0</ThicknessMM>
+  </XrayFiltration>
+  <ImageDetector>PerkinElmerXRD4343CT</ImageDetector>
+  <MapImage>
+    <Width>0</Width>
+    <Height>0</Height>
+  </MapImage>
+  <EditActions />
+  <WireSweep>
+    <Active>false</Active>
+    <SweepPercentage>0</SweepPercentage>
+  </WireSweep>
+</FullImageProfile>
